@@ -4,9 +4,9 @@ bio: 'DNN workshop'
 
 # if it's an external image, update below for true
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: 'green/assets/images/profile.jpg'
 
-url: http://koppl.in/indigo
+url: http://greeniezhang.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
