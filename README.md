@@ -94,7 +94,7 @@ If you liked my work, buy me a coffee <3
 
 ## Problems?
 
-Tell me on github or open a [issue](https://github.com/sergiokopplin/indigo/issues/new).
+Tell me on github or open aa [issue](https://github.com/sergiokopplin/indigo/issues/new).
 
 #### Inspirations:
 - [Addy Osmani](https://addyosmani.com/)
